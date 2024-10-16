@@ -79,7 +79,7 @@ void CountModifiedNumbers(int* array, const int size)
 int main() {
     srand((unsigned)time(NULL)); // Ініціалізація генератора випадкових чисел
 
-    const int n = 24; // Розмір масиву
+    const int n = 26; // Розмір масиву
     int a[n]; // Оголошення масиву
     int Low = -40; // Нижня межа діапазону
     int High = 20; // Верхня межа діапазону
