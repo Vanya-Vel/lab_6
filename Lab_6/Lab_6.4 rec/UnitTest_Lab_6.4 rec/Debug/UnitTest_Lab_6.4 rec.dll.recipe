@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\NULP\algorithmization and programming\Student\IK-12(1)\Velychko\Lab_6.4 rec\Debug\Lab_6.4 rec.exe</FullPath>
+      <FullPath>E:\NULP\algorithmization and programming\Student\IK-12(1)\Velychko\Lab_6\Lab_6.4 rec\Debug\Lab_6.4 rec.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\NULP\algorithmization and programming\Student\IK-12(1)\Velychko\Lab_6.4 rec\Debug\UnitTest_Lab_6.4 rec.dll</FullPath>
+      <FullPath>E:\NULP\algorithmization and programming\Student\IK-12(1)\Velychko\Lab_6\Lab_6.4 rec\Debug\UnitTest_Lab_6.4 rec.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

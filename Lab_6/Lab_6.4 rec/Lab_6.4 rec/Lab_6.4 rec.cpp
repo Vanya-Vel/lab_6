@@ -129,7 +129,7 @@ void Sort(int* array, const int size, int index = 0)
 
 // Головна функція
 int main() {
-    srand(static_cast<unsigned>(time(nullptr))); // Ініціалізація генератора випадкових чисел
+    srand((unsigned)time(NULL)); // Ініціалізація генератора випадкових чисел
 
     int n; // Розмір масиву
 

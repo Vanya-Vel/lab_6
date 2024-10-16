@@ -57,7 +57,7 @@ void SumEvenElements(int* array, const int size, int index = 0, int sum = 0) {
 }
 
 int main() {
-    srand(static_cast<unsigned>(time(nullptr))); // Ініціалізація генератора випадкових чисел
+    srand((unsigned)time(NULL));  // Ініціалізація генератора випадкових чисел
 
     const int n = 20; // Розмір масиву
     int a[n]; // Оголошення масиву
